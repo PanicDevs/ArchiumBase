@@ -1,0 +1,11 @@
+{
+    "name": "$STUDLY_NAME$",
+    "alias": "$LOWER_NAME$",
+    "id": "$LOWER_NAME$",
+    "version": 1,
+    "description": "$STUDLY_NAME$ Module by Armin Hooshmand",
+    "keywords": [],
+    "priority": 0,
+    "providers": [],
+    "files": []
+}

@@ -1,0 +1,10 @@
+{
+    "name": "$VENDOR$/$LOWER_NAME$",
+    "description": "$STUDLY_NAME$ Module By PanicDev",
+    "authors": [
+        {
+            "name": "$AUTHOR_NAME$",
+            "email": "$AUTHOR_EMAIL$"
+        }
+    ]
+}
